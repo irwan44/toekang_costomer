@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?><!DOCTYPE svg PUBLIC
+    "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="409.6" version="1.1" viewBox="0 0 1024 1024" width="409.6"
+    xmlns="http://www.w3.org/2000/svg" xml:space="preserve">
+<desc>Created with Fabric.js 3.6.3</desc>
+    <defs>
+</defs>
+    <g transform="matrix(2.88 0 0 2.85 506.26 520.45)">
+<g style="">
+		<g id="Fill-17" transform="matrix(17.66 0 0 17.3 59.04 -0.03)">
+<path
+    style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(51,149,255); fill-rule: evenodd; opacity: 1;"
+    d="M 107.858 7.06 l -0.98 3.625 l 5.607 -3.645 l -3.667 13.752 h 3.724 L 117.959 0.483 Z"
+    stroke-linecap="round" transform=" translate(-112.42, -10.64)" />
+</g>
+    <g id="Fill-19" transform="matrix(17.66 0 0 17.3 -61.91 74.5)">
+<path
+    style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(7,38,84); fill-rule: evenodd; opacity: 1;"
+    d="M 2.35 143.215 L 0.808 148.967 H 8.44 l 3.124 -11.7 l -9.215 5.949" stroke-linecap="round"
+    transform=" translate(-6.19, -143.12)" />
+</g>
+</g>
+</g>
+</svg>
